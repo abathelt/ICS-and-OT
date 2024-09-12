@@ -1,6 +1,7 @@
 
 # TRAINING
 - [CISA ICS training](https://ics-training.inl.gov/learn/signin) - Free training by CISA
+- [Getting Started with Industrial (ICS/OT) Cyber Security - 20+ Hours](https://www.youtube.com/playlist?list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g)
 
 # PODCASTS
 - [Control Loop](https://open.spotify.com/show/4C9w7T3YJt6kZ8je40B5Kb) - Control Loop is the OT Cybersecurity Podcast, your terminal for ICS security, intelligence, and learning. Every two weeks, we bring you the latest news, strategies, and technologies that industry professionals rely on to safeguard civilization.
@@ -8,6 +9,7 @@
 - [The PrOTect OT cybersecurity Podcast](https://open.spotify.com/show/0paav04Xxxdy5DrcTzSTjN) - brings together experts in the field of cybersecurity for critical infrastructure and industrial organizations.
 - [Unsolicited Response](https://open.spotify.com/show/3IBQ9z2x01JAkJQczBOXam) - Every week Dale Peterson interviews the innovators in OT and ICS security, as well as the top talent in related fields. 
 - [CS2AI podcast show]([https://www.cs2ai.org/podcast](https://open.spotify.com/show/7JVVSdCidMxXXeGtVLnHMS))
+- [Hack The Planet](https://www.icsvillage.com/podcast) - ICS village
 
 # CTFs
 - [DRAGOS Capture The Flag 2024](https://hub.dragos.com/ctf-registration-24)
@@ -33,3 +35,12 @@
 - [Roya Gordon](https://www.linkedin.com/in/roya-gordon-ot-cyber-sme/)
 - [Shiv Kataria](https://www.linkedin.com/in/shivkataria/)
 - [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/)
+
+# CONFERENCES
+- [SANS ICS Summit](https://www.sans.org/cyber-security-training-events/ics-security-summit-2025/)
+- [S4](https://s4xevents.com/)
+- [CS4CA](https://www.cs4ca.com/)
+- [ICS Village](https://www.icsvillage.com/)
+- Dragos DISC
+- [Cyber Senate](https://cybersenate.com/) - fostering C – Level communities that champion the defense of smart infrastructure.
+- [Hack the Capitol](https://securityandtechnology.org/hack-the-capitol-7-0/) - Washington, DC
