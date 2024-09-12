@@ -44,3 +44,9 @@
 - Dragos DISC
 - [Cyber Senate](https://cybersenate.com/) - fostering C – Level communities that champion the defense of smart infrastructure.
 - [Hack the Capitol](https://securityandtechnology.org/hack-the-capitol-7-0/) - Washington, DC
+- 
+
+# BLOGS: 
+- [Marcel Rick-Cen blog](https://medium.com/@marcel.rickcen)
+- [ICS/OT Penetration Testing of Schneider Modicon TM221: A Beginner’s Guide](https://medium.com/@marcel.rickcen/ics-ot-penetration-testing-of-schneider-modicon-tm221-a-beginners-guide-7363ab413278)
+- [ICS/OT Penetration Testing of Moxa NPort 5110: A Beginner’s Guide](https://medium.com/@marcel.rickcen/ics-ot-penetration-testing-of-moxa-nport-5110-a-beginners-guide-956256b92152)
