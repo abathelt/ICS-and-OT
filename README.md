@@ -50,3 +50,7 @@
 - [Marcel Rick-Cen blog](https://medium.com/@marcel.rickcen)
 - [ICS/OT Penetration Testing of Schneider Modicon TM221: A Beginner’s Guide](https://medium.com/@marcel.rickcen/ics-ot-penetration-testing-of-schneider-modicon-tm221-a-beginners-guide-7363ab413278)
 - [ICS/OT Penetration Testing of Moxa NPort 5110: A Beginner’s Guide](https://medium.com/@marcel.rickcen/ics-ot-penetration-testing-of-moxa-nport-5110-a-beginners-guide-956256b92152)
+
+
+# LABS
+- [GRFICSv2](https://github.com/Fortiphyd/GRFICSv2) - Graphical Realism Framework for Industrial Control Simulation (GRFICS)
