@@ -54,3 +54,7 @@
 
 # LABS
 - [GRFICSv2](https://github.com/Fortiphyd/GRFICSv2) - Graphical Realism Framework for Industrial Control Simulation (GRFICS)
+
+# Youtube Videos
+- [Energy 101: Natural Gas Power Plants](https://www.youtube.com/watch?v=Em1crnEt45Q)
+- [How does a Thermal power plant work?](https://www.youtube.com/watch?v=IdPTuwKEfmA)
