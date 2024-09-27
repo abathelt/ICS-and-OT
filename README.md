@@ -2,7 +2,6 @@
 # DOCUMENTATION
 - [800-82: Guide to Industrial Control Systems (ICS) Security](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r1.pdf)
 - [NERC CIP Standard Mapping to the Critical Security Controls](https://scadahacker.com/library/Documents/Standards/mappings/SANS%20-%20CIP%20Mapping%20to%20Critical%20Security%20Controls%20(DRAFT).pdf)
-- [CIS Controls v8](
 - [TOP 10 VULNERABILITIES OF CONTROL SYSTEMS AND THEIR ASSOCIATED MITIGATIONS – 2007 ](https://scadahacker.com/library/Documents/ICS_Vulnerabilities/NERC%20-%20Top%2010%20Vulnerabilities%20of%20Control%20Systems%20and%20their%20Mitigations%20(2007).pdf)
 - [More free documentation](https://scadahacker.com/library/index.html)
 
