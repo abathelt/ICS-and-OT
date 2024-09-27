@@ -44,13 +44,14 @@
 - Dragos DISC
 - [Cyber Senate](https://cybersenate.com/) - fostering C – Level communities that champion the defense of smart infrastructure.
 - [Hack the Capitol](https://securityandtechnology.org/hack-the-capitol-7-0/) - Washington, DC
-- 
 
 # BLOGS: 
 - [Marcel Rick-Cen blog](https://medium.com/@marcel.rickcen)
 - [ICS/OT Penetration Testing of Schneider Modicon TM221: A Beginner’s Guide](https://medium.com/@marcel.rickcen/ics-ot-penetration-testing-of-schneider-modicon-tm221-a-beginners-guide-7363ab413278)
 - [ICS/OT Penetration Testing of Moxa NPort 5110: A Beginner’s Guide](https://medium.com/@marcel.rickcen/ics-ot-penetration-testing-of-moxa-nport-5110-a-beginners-guide-956256b92152)
 
+# ARTICLES AND ANALYSIS
+- [To Kill a Centrifuge](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.langner.com%2Fen%2Fwp-content%2Fuploads%2F2013%2F11%2FTo-kill-a-centrifuge.pdf) - A Technical Analysis of What Stuxnet’s Creators Tried to Achieve
 
 # LABS
 - [GRFICSv2](https://github.com/Fortiphyd/GRFICSv2) - Graphical Realism Framework for Industrial Control Simulation (GRFICS)
