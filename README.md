@@ -1,7 +1,14 @@
 
+# DOCUMENTATION
+- [800-82: Guide to Industrial Control Systems (ICS) Security](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r1.pdf)
+- [NERC CIP Standard Mapping to the Critical Security Controls](https://scadahacker.com/library/Documents/Standards/mappings/SANS%20-%20CIP%20Mapping%20to%20Critical%20Security%20Controls%20(DRAFT).pdf)
+- [CIS Controls v8](
+- [TOP 10 VULNERABILITIES OF CONTROL SYSTEMS AND THEIR ASSOCIATED MITIGATIONS – 2007 ](https://scadahacker.com/library/Documents/ICS_Vulnerabilities/NERC%20-%20Top%2010%20Vulnerabilities%20of%20Control%20Systems%20and%20their%20Mitigations%20(2007).pdf)
+- [More free documentation](https://scadahacker.com/library/index.html)
+
 # TRAINING
 - [CISA ICS training](https://ics-training.inl.gov/learn/signin) - Free training by CISA
-- [Getting Started with Industrial (ICS/OT) Cyber Security - 20+ Hours](https://www.youtube.com/playlist?list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g)
+- [Getting Started with Industrial (ICS/OT) Cyber Security](https://www.youtube.com/playlist?list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g) - free YouTube training 20+ Hours
 
 # PODCASTS
 - [Control Loop](https://open.spotify.com/show/4C9w7T3YJt6kZ8je40B5Kb) - Control Loop is the OT Cybersecurity Podcast, your terminal for ICS security, intelligence, and learning. Every two weeks, we bring you the latest news, strategies, and technologies that industry professionals rely on to safeguard civilization.
@@ -45,8 +52,19 @@
 - [Cyber Senate](https://cybersenate.com/) - fostering C – Level communities that champion the defense of smart infrastructure.
 - [Hack the Capitol](https://securityandtechnology.org/hack-the-capitol-7-0/) - Washington, DC
 
-# BLOGS: 
+# BOOKS
+- Industrial Network Security, 2nd edition (Syngress)
+- Hacking Exposed: Industrial Control Systems (McGraw Hill)
+- Pentesting Industrial Control Systems (Packt)
+- Purple Team Field Manual (Tim Bryant)
+- ICS Purple Team Field Manual (ICSCSI)
+
+# WEBSITES, BLOGS, PRESENTATIONS
+- [scadahacker](https://scadahacker.com/)
+- [Dale Peterson]([https://dale-peterson.com/digital-bond-archives](https://dale-peterson.com/blog/)/)
 - [Marcel Rick-Cen blog](https://medium.com/@marcel.rickcen)
+- [SCADA HoneyNet Project](https://scadahoneynet.sourceforge.net/)
+- [Out of Control: Demonstrating SCADA Exploitation](https://media.blackhat.com/us-13/US-13-Forner-Out-of-Control-Demonstrating-SCADA-Slides.pdf)
 - [ICS/OT Penetration Testing of Schneider Modicon TM221: A Beginner’s Guide](https://medium.com/@marcel.rickcen/ics-ot-penetration-testing-of-schneider-modicon-tm221-a-beginners-guide-7363ab413278)
 - [ICS/OT Penetration Testing of Moxa NPort 5110: A Beginner’s Guide](https://medium.com/@marcel.rickcen/ics-ot-penetration-testing-of-moxa-nport-5110-a-beginners-guide-956256b92152)
 
@@ -55,6 +73,7 @@
 
 # LABS
 - [GRFICSv2](https://github.com/Fortiphyd/GRFICSv2) - Graphical Realism Framework for Industrial Control Simulation (GRFICS)
+- [Tofino SCADA Security Simulator](https://www.tofinosecurity.com/products/tofino-scada-security-simulator)
 
 # Youtube Videos
 - [Energy 101: Natural Gas Power Plants](https://www.youtube.com/watch?v=Em1crnEt45Q)
