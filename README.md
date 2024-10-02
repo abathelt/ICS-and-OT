@@ -69,6 +69,7 @@
 
 # Analysis
 - [To Kill a Centrifuge](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.langner.com%2Fen%2Fwp-content%2Fuploads%2F2013%2F11%2FTo-kill-a-centrifuge.pdf) - A Technical Analysis of What Stuxnet’s Creators Tried to Achieve
+- [INCONTROLLER: New State-Sponsored Cyber Attack Tools Target Multiple Industrial Control Systems](https://cloud.google.com/blog/topics/threat-intelligence/incontroller-state-sponsored-ics-tool/) - PipeDream framework
 
 # Labs
 - [GRFICSv2](https://github.com/Fortiphyd/GRFICSv2) - Graphical Realism Framework for Industrial Control Simulation (GRFICS)
