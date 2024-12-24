@@ -52,11 +52,16 @@
 - [Hack the Capitol](https://securityandtechnology.org/hack-the-capitol-7-0/) - Washington, DC
 
 # Books
-- Industrial Network Security, 2nd edition (Syngress)
 - Hacking Exposed: Industrial Control Systems (McGraw Hill)
 - Pentesting Industrial Control Systems (Packt)
 - Purple Team Field Manual (Tim Bryant)
 - ICS Purple Team Field Manual (ICSCSI)
+- Industrial Network Security: Securing Critical Infrastructure Networks for Smart Grid, SCADA, and Other Industrial Control Systems 3rd Edition (Eric Knapp)
+- Implementing IEC 62443 - A Pragmatic Approach to Cybersecurity (Michael D. Medoff and Patrick C. O'Brien)
+- Practical Industrial Cybersecurity: ICS, Industry 4.0, and IIoT (Charles Brooks and Phillip Craig Jr.)
+- Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions (Clint Bodungen, Bryan Singer, Aaron Shbeeb, Kyle Wilhoit and Stephen Hilt)
+- Sandworm (Andy Greenberg)
+
 
 # Websites, articles, presentaions
 - [scadahacker](https://scadahacker.com/)
