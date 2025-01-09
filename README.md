@@ -83,3 +83,34 @@
 # Youtube Videos
 - [Energy 101: Natural Gas Power Plants](https://www.youtube.com/watch?v=Em1crnEt45Q)
 - [How does a Thermal power plant work?](https://www.youtube.com/watch?v=IdPTuwKEfmA)
+
+# Questions to help you determine how secure you are.
+## Secure Network Architecture
+1. Do you have a firewall between your IT and OT networks?
+2. Do you allow IT assets to originate connections into the OT network?
+3. Are your firewalls configured with the most restrictive ACLs?
+4. Do you have an IT/OT DMZ with multiple firewalls between your IT and OT networks?
+5. Are your IT Active Directory and IT Active Directory domains connected?
+## Inventory and Control of Assets
+1. Do you have a listing of All assets in your ICS/OT network?
+2. Does your asset listing include vendor, model and firmware/OS version?
+3. Is your asset listing reviewed on a regular basis for accuracy?
+4. Would you know if a new system was connected to your ICS/OT network?
+5. Are all copies of your assets listing stored securely?
+## Continues Vulnerability Management
+1. Does a formal process exist to review your asset inventory for vulnerabilities?
+2. How often do you review your enviroment for vulnerabilities?
+3. Do you have a method to determine if vulnerabilities are applicable to your enviroment?
+4. Do you determine the risk associated with applicable vulnerabiities?
+5. Do you take the appropriate action?
+## Incident Response Management
+1. Does a formal Incident Response program or procedure exist?
+2. Do employees and contractors know who to call when something looks suspicious?
+3. How often are incident response procedures tested?
+4. Are table top exercise used to test incident response practices?
+5. Are lessons learned from incident response exercises acted upon?
+## Conducting Risk Assessment
+1. Has an initial risk assessment been conducted of the enviroment?
+2. How often are risk assessment conducted?
+3. Do you have the right parties involved when determining the risk?
+4. Is an action plan created and acted upon to address identified risk (where possible)?
