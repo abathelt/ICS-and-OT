@@ -71,6 +71,8 @@
 - [Out of Control: Demonstrating SCADA Exploitation](https://media.blackhat.com/us-13/US-13-Forner-Out-of-Control-Demonstrating-SCADA-Slides.pdf)
 - [ICS/OT Penetration Testing of Schneider Modicon TM221: A Beginner’s Guide](https://medium.com/@marcel.rickcen/ics-ot-penetration-testing-of-schneider-modicon-tm221-a-beginners-guide-7363ab413278)
 - [ICS/OT Penetration Testing of Moxa NPort 5110: A Beginner’s Guide](https://medium.com/@marcel.rickcen/ics-ot-penetration-testing-of-moxa-nport-5110-a-beginners-guide-956256b92152)
+- [Industrial Cyber Response Blog Post](https://www.dragos.com/blog/industry-news/preparing-for-industrial-cyber-response-what-to-have-in-your-incident-response-toolkit/) - Some high-level thoughts on what you need to have in your incident response toolkit to be prepared for an industrial cyber response
+- [ICS-Security-Study-Resources](https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources)
 
 # Analysis
 - [To Kill a Centrifuge](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.langner.com%2Fen%2Fwp-content%2Fuploads%2F2013%2F11%2FTo-kill-a-centrifuge.pdf) - A Technical Analysis of What Stuxnet’s Creators Tried to Achieve
@@ -83,6 +85,7 @@
 # Youtube Videos
 - [Energy 101: Natural Gas Power Plants](https://www.youtube.com/watch?v=Em1crnEt45Q)
 - [How does a Thermal power plant work?](https://www.youtube.com/watch?v=IdPTuwKEfmA)
+- [ICS Concepts by SANS](https://www.youtube.com/playlist?list=PLjoUWqjR7qXhGruLWvAewVkJ05Nh8z4O8)
 
 # Questions to help you determine how secure you are.
 ## Secure Network Architecture
